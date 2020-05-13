@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"A2 emeleti terem","order":1,"parentId":0,"scrollX":910.2857142857142,"scrollY":389.1428571428571},
+{"id":2,"expanded":false,"name":"A folyosó","order":2,"parentId":0,"scrollX":923.9999999999999,"scrollY":378.85714285714283},
+{"id":3,"expanded":false,"name":"A1 WC","order":3,"parentId":0,"scrollX":923.9999999999999,"scrollY":378.85714285714283},
+{"id":4,"expanded":false,"name":"udvar","order":4,"parentId":0,"scrollX":923.9999999999999,"scrollY":378.85714285714283},
+{"id":5,"expanded":false,"name":"B1 folyosó","order":5,"parentId":0,"scrollX":923.9999999999999,"scrollY":378.85714285714283},
+{"id":6,"expanded":false,"name":"B Arizona","order":6,"parentId":0,"scrollX":923.9999999999999,"scrollY":378.85714285714283},
+{"id":7,"expanded":false,"name":"A porta","order":7,"parentId":0,"scrollX":923.9999999999999,"scrollY":378.85714285714283},
+{"id":8,"expanded":false,"name":"B13/16 terem","order":8,"parentId":0,"scrollX":923.9999999999999,"scrollY":378.85714285714283},
+{"id":9,"expanded":false,"name":"dühöngő","order":9,"parentId":0,"scrollX":539,"scrollY":221}
+]
